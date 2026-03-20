@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codezelat.github.io/sitemap.xml
